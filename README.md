@@ -11,7 +11,7 @@ My last achievements:
  * obtaining the bachelor's degree Conception of digital solutions with Java (12/2023).
  * obtaining the graduate's degree DWWM (04/2023).
 
-You can join me on [Linkedin](https://www.linkedin.com/in/thomas-ribes-1b3705193/)
+You can join me on [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-ribes-1b3705193/)
 
 ## Technologies & tools
 
