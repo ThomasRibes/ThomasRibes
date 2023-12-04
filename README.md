@@ -1,7 +1,7 @@
 ![Header](./header.PNG)
 
 
-## 🚀 Hello world !
+## 🚀 Hello !
 
 My name is Thomas Ribes and i'am a full stack developper. I'am from France (near Paris)
  and currently looking for a job as java developper (full stack).
