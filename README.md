@@ -8,6 +8,7 @@ My name is Thomas Ribes and i'am a full stack developper. I'am from France (near
  I'am currently learning Angular.
 
 My last achievements:
+ * Udemy course done : Full Stack: Angular and Java Spring Boot E-Commerce Website
  * obtaining the bachelor's degree Conception of digital solutions with Java (12/2023).
  * obtaining the graduate's degree DWWM (04/2023).
 
