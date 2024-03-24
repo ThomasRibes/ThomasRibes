@@ -5,7 +5,7 @@
 
 My name is Thomas Ribes and i'am a full stack developper. I'am from France (near Paris)
  and currently looking for a job as java developper (full stack).
- I'am currently learning Angular.
+ I'am currently learning React.
 
 My last achievements:
  * Udemy course done : Full Stack: Angular and Java Spring Boot E-Commerce Website
